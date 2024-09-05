@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align = "center">
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>  
+  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=&logoColor=white">
+</div>
+
