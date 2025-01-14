@@ -1,6 +1,13 @@
 # 👩‍💻Bomi Lee
 Hi👋 Welcome to my profile! 
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happygirlll)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbm0314)](https://solved.ac/lbm0314/)
+
+![Programmers Badge](https://raw.githubusercontent.com/{happygirlll}/Programmers_Badge_Generator/main/result/result.svg)
+
+
 <br>
 <div align="left"><h2>🛠️ Skills</h2></div>
 <h3>Language</h3>
@@ -31,15 +38,7 @@ Hi👋 Welcome to my profile!
   
 
 </div>
-
 <div>
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
-<br><br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happygirlll)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happygirlll)](https://github.com/anuraghazra/github-readme-stats)
-<br>
