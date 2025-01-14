@@ -5,8 +5,6 @@ Hi👋 Welcome to my profile!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happygirlll)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbm0314)](https://solved.ac/lbm0314/)
 
-![Programmers Badge](https://raw.githubusercontent.com/{happygirlll}/Programmers_Badge_Generator/main/result/result.svg)
-
 
 <br>
 <div align="left"><h2>🛠️ Skills</h2></div>
