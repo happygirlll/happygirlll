@@ -13,15 +13,17 @@
 🌱 Currently working on **project maintenance**  
 🚀 Exploring **Flutter + AI** for side projects  
 
- <p>
+<br>
+
+<p>
   <a href="mailto:lbm000314@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-lbm000314%40gmail.com-FF6B6B?logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-lbm000314%40gmail.com-FF82AB?logo=gmail&logoColor=white" />
   </a>
   <a href="https://uplifted.tistory.com/">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-Tistory-000000?logo=tistory&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-Tistory-BA55D3?logo=tistory&logoColor=white" />
   </a>
-  
 </p>
+
 
   
 </div>
@@ -108,9 +110,12 @@
 </tr>
 </table>
 
+<br>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=happygirlll&show_icons=true&rank_icon=github&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happygirlll&layout=compact&hide_title=true" height="160" />
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happygirlll&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happygirlll&layout=compact&theme=synthwave)
+  
 </div>
