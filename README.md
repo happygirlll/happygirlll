@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=3000&pause=1000&color=FF82AB&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+bomi's+github!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=1000&color=FF82AB&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+bomi's+github!" />
 <br>
 
 
