@@ -2,8 +2,10 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=1000&color=FF82AB&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+bomi's+github!" />
-<br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{happygirlll}?pet-id=1" width="10000" height="400"/>
+</a>
 
 </div>
 
