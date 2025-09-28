@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=1000&color=FF82AB&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+bomi's+github!" />
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{happygirlll}?pet-id=1" width="10000" height="400"/>
+  <img src="https://render.gitanimals.org/farms/{happygirlll}" width="800" height="180"/>
 </a>
 
 </div>
@@ -117,7 +117,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happygirlll&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happygirlll&layout=compact&theme=synthwave)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happygirlll&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happygirlll&layout=compact&theme=synthwave)
   
 </div>
