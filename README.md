@@ -13,7 +13,6 @@
 <div align="left">
 
 🌱 Currently working on **project maintenance**  
-🚀 Exploring **Flutter + AI** for side projects  
 
 <br>
 
